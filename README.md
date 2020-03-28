@@ -2,9 +2,9 @@
 
 ### MKIT (Managed Kubernetes Inspector Tool)
 
-This is a tool that collects configuration data from your Cloud Service Provider (CSP) and your Kubernetes cluster and reports on the top security risks and vulnerabilities.
+This is a tool that collects configuration data from your Cloud Service Provider (CSP) and your Kubernetes cluster and reports on common security risks and vulnerabilities.
 
-[Request access](https://darkbit.io/contact)
+[GitHub Repo](https://github.com/darkbitio/mkit)
 
 ### AWS S3 DLP
 
