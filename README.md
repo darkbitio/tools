@@ -1,5 +1,11 @@
 ## Darkbit Cloud Security Tools
 
+### AWS Recon (AWS Asset Inventory Collection Tool)
+
+AWS Recon is a command line tool for collecting your entire AWS environment. The tool aims to have better coverage than **AWS Config** while being relatively quick to run, even on large accounts.
+
+[GitHub Repo](https://github.com/darkbitio/aws-recon)
+
 ### MKAP (Managed Kubernetes Action Plan)
 
 The Kubernetes Security Action Plan is your guide to the best practices for deploying secure, scalable, and highly available Kubernetes infrastructure.
