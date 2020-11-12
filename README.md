@@ -1,5 +1,11 @@
 ## Darkbit Cloud Security Tools
 
+### OpenCSPM (Cloud Security Posture Management framework)
+
+OpenCSPM is an open-source platform that aims to make continuous cloud security posture management easy and scalable. 
+
+[GitHub Repo](https://github.com/OpenCSPM/opencspm)
+
 ### AWS Recon (AWS Asset Inventory Collection Tool)
 
 AWS Recon is a command line tool for collecting your entire AWS environment. The tool aims to have better coverage than **AWS Config** while being relatively quick to run, even on large accounts.
